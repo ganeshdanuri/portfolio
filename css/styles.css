@@ -26,6 +26,7 @@ a {
 @supports (-webkit-background-clip: text) {
   .title-2 {
     color: transparent;
+    text-align: center;
     background: linear-gradient(7deg, #f5ee9e 50%, #f49e4c 0);
     font-size: 80px !important;
     -webkit-background-clip: text;
@@ -309,6 +310,5 @@ img {
 
   .title-2 {
     font-size: 40px !important;
-    text-align: center;
   }
 }
